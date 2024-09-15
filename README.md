@@ -1,7 +1,5 @@
 # DeepFace Face Recognition
 
-![Facial Recognition](https://via.placeholder.com/1200x400?text=Facial+Recognition+Project) <!-- Replace with an actual image if you have one -->
-
 ## 📖 Overview
 The **Facial Recognition** project is an advanced implementation of facial recognition and analysis using the DeepFace library. This project leverages deep learning techniques to detect faces in images or live video, providing real-time insights such as emotion, age, gender, race, and facial landmarks.
 
@@ -37,28 +35,27 @@ jupyter notebook Facial_recognition.ipynb
 ```
 #### Follow the instructions in the notebook to run the facial recognition and analysis algorithms.
 ## 🎯 Features
-*Face Detection:* Utilizes DeepFace and OpenCV to detect faces in images or live video.
-*Facial Analysis:* Provides insights such as emotion, age, gender, race, and facial landmarks using DeepFace.
-*Real-Time Analysis:* Captures live photos at a specified interval and displays real-time analysis results.
+**Face Detection:** Utilizes DeepFace and OpenCV to detect faces in images or live video.
+**Facial Analysis:** Provides insights such as emotion, age, gender, race, and facial landmarks using DeepFace.
+**Real-Time Analysis:** Captures live photos at a specified interval and displays real-time analysis results.
 *Visualization:* Displays detected faces and analysis results using Matplotlib.
 ## 📈 Results
-Real-Time Analysis
+### Real-Time Analysis
 The project includes real-time analysis capabilities, capturing images at specified intervals and providing immediate feedback on detected faces. Below are examples of the output images with their corresponding analysis results:
 ### Example 1
-Example Image 1<!-- Replace with actual image URL or upload to your repo -->
-Emotion:* Neutral
-Age:* 27(Changes with lighting and expression)
-Gender:* Male
+![Example Image 1](https://github.com/Pramod-Mudugulla/DeepFace-Face-Recognition/blob/main/Screenshot%202024-09-16%20011805.png?raw=true)
+- **Emotion:** Neutral
+- **Age:** 27(Changes with lighting and expression)
+- **Gender:** Male
 ### Example 2
-Example Image 2<!-- Replace with actual image URL or upload to your repo -->
-*Emotion:* Happy
-*Age:* 31(Changes with lighting and expression)
-*Gender:* Male
+![Example Image 2](https://github.com/Pramod-Mudugulla/DeepFace-Face-Recognition/blob/main/Screenshot%202024-09-16%20011953.png?raw=true)
+- **Emotion:** Happy
+- **Age:** 31(Changes with lighting and expression)
+- **Gender:** Male
 ## 🤝 Contributing
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request.
 ## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 ## 📫 Contact
 ## For any inquiries, please reach out to:
-Email: pramodreddy0209@gmail.com
-LinkedIn: in/pramod-kumar-reddy-mudugulla
+**Email:** pramodreddy0209@gmail.com
